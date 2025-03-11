@@ -109,3 +109,10 @@ In **Phase IV**, we extended our system by implementing a **NoSQL database** usi
 - **Query Optimization**: Efficient **indexing, filtering, and aggregation**.
 - **NoSQL Flexibility**: Implemented **MongoDB-based evaluations** for student & teacher feedback.
 - **Real-World Application**: Demonstrated **scalability & usability** in data management.
+
+---
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/625ee317-ddbb-4bf0-a97d-5ceb03da0144" />
+<img width="468" alt="image" src="https://github.com/user-attachments/assets/6326e37e-8103-4289-8335-d7335b238fc9" />
+<img width="446" alt="image" src="https://github.com/user-attachments/assets/18183b6d-1c23-4e3f-a2e3-a0eba0d8589f" />
+
+
